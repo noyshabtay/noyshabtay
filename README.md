@@ -1,25 +1,13 @@
-### Hi there 👋
-
 <div align="center">
 
+<h2 align="center">Hi there 👋, I'm Noy Shabtay</h2>
+<h4 align="center">A Software Engineer <a href="https://github.com/jfrog">@JFrog</a>.</h4> 
+
+<br>
+  
 ![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
 
 </div>
-
-<!--
-**noyshabtay/noyshabtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
