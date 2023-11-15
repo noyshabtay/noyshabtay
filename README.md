@@ -3,9 +3,8 @@
 <div align="center">
 
 ![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-<a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
 
 </div>
 
