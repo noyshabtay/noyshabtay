@@ -2,12 +2,11 @@
 
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/israel_public/noyshabtay.svg)](https://commits.top/israel_public.html)  
-
-
 ![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 </div>
+
+[![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **noyshabtay/noyshabtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
