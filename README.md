@@ -5,7 +5,7 @@
 
 <br>
   
-![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&theme=dark)
 
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" />
