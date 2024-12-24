@@ -7,6 +7,8 @@
   
 ![noyshabtay's GitHub stats](https://github-readme-stats.vercel.app/api?username=noyshabtay&hide=stars&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
 
+<div align="center">
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
 </div>
