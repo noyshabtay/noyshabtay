@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2 align="center">Hi there 👋, I'm Noy Shabtay</h2>
-<h4 align="center">A Software Engineer <a href="https://github.com/wiz-sec">@Wiz</a>.</h4> 
+<h4 align="center">A Software Engineer <a href="https://github.com/">@</a>.</h4> 
 
 <br>
   
